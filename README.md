@@ -5,4 +5,4 @@ Capstone Engagement Assessment, Analysis, and Hardening of a Vulnerable System (
 
 
 Please see linked presentation.
-![Capstone Engagement.pptx](https://github.com/rlaplant88/Capstone-Engagement-Assessment--Project-2/blob/928921d05464b989b994cd74bc80b87085b56b2c/Capstone%20Engagement.pptx)
+![La Plant Project 2.pptx](https://github.com/rlaplant88/Capstone-Engagement-Assessment--Project-2/blob/f0d66d43d9312524464a2247cce56dc20eb41939/La%20Plant%20Project%202.pptx)
